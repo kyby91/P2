@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "Raleway";
+    src: url("police/Raleway-Regular.ttf");
+}
+
+p, h3
+{   
+    padding-left: 10px;
+    margin-top: 2px;
+    margin-bottom: 1px;
+    font-size: xx-small;
+    text-align: left;
+}
+
+img
+{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    object-fit: cover;
+    width: 166px;
+    height: 90px;
+}
+
+#starp
+{
+    color:#0065FC;
+    font-size: xx-small;
+}
+
+#starv
+{
+    color: #F2F2F2;
+    font-size: xx-small;
+}
+
+.location
+{
+    background-color: white;
+    border-radius: 10px ;
+    width: 170px;
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    -webkit-box-shadow: 0px 0px 20px -16px #000000; 
+    box-shadow: 0px 0px 20px -16px #000000;
+}
+
+#starpi
+{
+    color: #0065FC;
+    padding-left: 10px;
+    font-size: xx-small;
+    margin-bottom: 8px;
+}
+
+body
+{
+    background-color: #F2F2F2;
+}
+
+html
+{
+    font-family: "Raleway";
+}
+
+.divers
+{
+    font-weight: bold;
+}
+
+h2
+{
+    margin-top: 5px;
+    margin-bottom: -5px;
+    margin-left: 10px;
+    font-size: small;
+    font-weight: "Raleway-SemiBold";
+}

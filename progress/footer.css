@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Raleway";
+    src: url("police/Raleway-Regular.ttf");
+}
+
+*
+{
+    font-family: "Raleway";
+}
+
+footer
+{
+    background-color: #F2F2F2;
+}
+
+#ok
+{
+    display: flex;
+    justify-content: space-around;
+}
